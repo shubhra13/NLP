@@ -1,5 +1,16 @@
 # Tales from the Crypto
 
+# RESULTS 
+
+## NER is not RENDERED WELL so here is the screenshot
+---
+![BITCOIN NER](Images/BitCoinNER.png)
+
+---
+
+![ETHEREUM NER](Images/EthereumNER.png)
+---
+
 ![Stock Sentiment](Images/sentimental.jpeg)
 
 ## Background
