@@ -1,4 +1,4 @@
-# Tales from the Crypto
+
 
 # RESULTS 
 
@@ -10,6 +10,10 @@
 
 ![ETHEREUM NER](Images/EthereumNER.png)
 ---
+
+# PROJECT DESCRIPTION
+
+## Tales from the Crypto
 
 ![Stock Sentiment](Images/sentimental.jpeg)
 
