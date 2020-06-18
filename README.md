@@ -2,7 +2,7 @@
 
 # RESULTS 
 
-## NER is not RENDERED WELL so here is the screenshot
+## NER is not RENDERED WELL on GITHUB, so here is the screenshot
 ---
 ![BITCOIN NER](Images/BitCoinNER.png)
 
